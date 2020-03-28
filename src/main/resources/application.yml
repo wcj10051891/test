@@ -1,0 +1,14 @@
+version: @version@
+target:
+  url: https://www.163.com
+exam:
+  url: http://test-01.biostime.us/merchant-exam
+feign:
+  okhttp:
+    enabled: true
+  client:
+    config:
+      default:
+        connectTimeout: 6000
+        readTimeout: 6000
+        loggerLevel: FULL

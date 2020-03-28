@@ -1,0 +1,8 @@
+target:
+  url: https://www.qq.com
+#spring:
+#  datasource:
+#    url: jdbc:mysql://127.0.0.1:4000/mysql
+#    username: root
+#    password:
+#    driver-class-name: com.mysql.jdbc.Driver
